@@ -1,0 +1,11 @@
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\regustro_usuario\regustro_usuario\bin\Debug\regustro_usuario.exe.config
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\regustro_usuario\regustro_usuario\bin\Debug\regustro_usuario.exe
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\regustro_usuario\regustro_usuario\bin\Debug\regustro_usuario.pdb
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\regustro_usuario\regustro_usuario\obj\Debug\regustro_usuario.csproj.AssemblyReference.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\regustro_usuario\regustro_usuario\obj\Debug\regustro_usuario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\regustro_usuario\regustro_usuario\obj\Debug\regustro_usuario.Form1.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\regustro_usuario\regustro_usuario\obj\Debug\regustro_usuario.Properties.Resources.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\regustro_usuario\regustro_usuario\obj\Debug\regustro_usuario.csproj.GenerateResource.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\regustro_usuario\regustro_usuario\obj\Debug\regustro_usuario.csproj.CoreCompileInputs.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\regustro_usuario\regustro_usuario\obj\Debug\regustro_usuario.exe
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\regustro_usuario\regustro_usuario\obj\Debug\regustro_usuario.pdb

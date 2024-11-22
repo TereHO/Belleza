@@ -1,0 +1,12 @@
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\informacion y productos\informacion y productos\bin\Debug\informacion y productos.exe.config
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\informacion y productos\informacion y productos\bin\Debug\informacion y productos.exe
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\informacion y productos\informacion y productos\bin\Debug\informacion y productos.pdb
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\informacion y productos\informacion y productos\obj\Debug\informacion y productos.csproj.AssemblyReference.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\informacion y productos\informacion y productos\obj\Debug\informacion y productos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\informacion y productos\informacion y productos\obj\Debug\informacion_y_productos.Form1.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\informacion y productos\informacion y productos\obj\Debug\informacion_y_productos.productos.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\informacion y productos\informacion y productos\obj\Debug\informacion_y_productos.Properties.Resources.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\informacion y productos\informacion y productos\obj\Debug\informacion y productos.csproj.GenerateResource.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\informacion y productos\informacion y productos\obj\Debug\informacion y productos.csproj.CoreCompileInputs.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\informacion y productos\informacion y productos\obj\Debug\informacion y productos.exe
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\informacion y productos\informacion y productos\obj\Debug\informacion y productos.pdb

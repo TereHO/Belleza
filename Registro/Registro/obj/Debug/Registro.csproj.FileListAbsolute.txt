@@ -1,0 +1,11 @@
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Registro\Registro\bin\Debug\Registro.exe.config
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Registro\Registro\bin\Debug\Registro.exe
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Registro\Registro\bin\Debug\Registro.pdb
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Registro\Registro\obj\Debug\Registro.csproj.AssemblyReference.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Registro\Registro\obj\Debug\Registro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Registro\Registro\obj\Debug\Registro.Form1.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Registro\Registro\obj\Debug\Registro.Properties.Resources.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Registro\Registro\obj\Debug\Registro.csproj.GenerateResource.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Registro\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Registro\Registro\obj\Debug\Registro.exe
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Registro\Registro\obj\Debug\Registro.pdb

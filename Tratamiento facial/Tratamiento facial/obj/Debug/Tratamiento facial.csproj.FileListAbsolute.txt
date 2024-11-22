@@ -1,0 +1,14 @@
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\bin\Debug\Tratamiento facial.exe.config
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\bin\Debug\Tratamiento facial.exe
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\bin\Debug\Tratamiento facial.pdb
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\obj\Debug\Tratamiento facial.csproj.AssemblyReference.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\obj\Debug\Tratamiento facial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\obj\Debug\Tratamiento_facial.Eliminación_de_manchas.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\obj\Debug\Tratamiento_facial.Form1.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\obj\Debug\Tratamiento_facial.Limpieza_de_Cutis.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\obj\Debug\Tratamiento_facial.Properties.Resources.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\obj\Debug\Tratamiento_facial.Rejuvenecimiento_de_piel.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\obj\Debug\Tratamiento facial.csproj.GenerateResource.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\obj\Debug\Tratamiento facial.csproj.CoreCompileInputs.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\obj\Debug\Tratamiento facial.exe
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\Tratamiento facial\Tratamiento facial\obj\Debug\Tratamiento facial.pdb

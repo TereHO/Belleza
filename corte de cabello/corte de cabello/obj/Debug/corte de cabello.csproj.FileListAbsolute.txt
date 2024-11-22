@@ -1,0 +1,12 @@
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\corte de cabello\corte de cabello\bin\Debug\corte de cabello.exe.config
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\corte de cabello\corte de cabello\bin\Debug\corte de cabello.exe
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\corte de cabello\corte de cabello\bin\Debug\corte de cabello.pdb
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\corte de cabello\corte de cabello\obj\Debug\corte de cabello.csproj.AssemblyReference.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\corte de cabello\corte de cabello\obj\Debug\corte de cabello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\corte de cabello\corte de cabello\obj\Debug\corte_de_cabello.Form1.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\corte de cabello\corte de cabello\obj\Debug\corte_de_cabello.Properties.Resources.resources
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\corte de cabello\corte de cabello\obj\Debug\corte de cabello.csproj.GenerateResource.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\corte de cabello\corte de cabello\obj\Debug\corte de cabello.csproj.CoreCompileInputs.cache
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\corte de cabello\corte de cabello\obj\Debug\corte de cabello.exe
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\corte de cabello\corte de cabello\obj\Debug\corte de cabello.pdb
+C:\Users\Tere\OneDrive\Escritorio\semestre 4\to. avanzados de programacion\Proyecto\proyecto interfaz\corte de cabello\corte de cabello\obj\Debug\corte_de_cabello.Reguistro.resources
